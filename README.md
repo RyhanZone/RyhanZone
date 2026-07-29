@@ -102,27 +102,11 @@ An interactive quiz application designed to provide a simple and engaging user e
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Most Used Languages
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyhanZone&theme=github_dark" />
-
-<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyhanZone&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyhanZone&theme=github_dark" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RyhanZone&bg_color=09090B&color=D4D3D6&line=7CFF4D&point=7CFF4D&area=true&hide_border=true" />
 
 </div>
 
