@@ -12,8 +12,8 @@ with a focus on clean code, thoughtful UI, and continuous improvement.
 <a href="https://rafirafi.com">
   <img src="https://img.shields.io/badge/Portfolio-7CFF4D?style=for-the-badge&logo=googlechrome&logoColor=09090B" />
 </a>
-<a href="https://github.com/RyhanZone">
-  <img src="https://img.shields.io/badge/GitHub-7CFF4D?style=for-the-badge&logo=github&logoColor=09090B" />
+<a href="https://www.linkedin.com/in/ryhan-rafi-329024346/">
+<img src="https://img.shields.io/badge/LinkedIn-7CFF4D?style=for-the-badge&logo=linkedin&logoColor=09090B"/>
 </a>
 
 </div>
@@ -106,9 +106,13 @@ An interactive quiz application designed to provide a simple and engaging user e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RyhanZone&show_icons=true&hide_border=true&bg_color=09090B&title_color=7CFF4D&icon_color=7CFF4D&text_color=D4D3D6" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyhanZone&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyhanZone&layout=compact&hide_border=true&bg_color=09090B&title_color=7CFF4D&text_color=D4D3D6" height="180"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyhanZone&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RyhanZone&theme=github_dark" />
 
 </div>
 
@@ -161,8 +165,8 @@ I'm always open to learning, collaborating, and building meaningful projects.
 <img src="https://img.shields.io/badge/Portfolio-7CFF4D?style=for-the-badge&logo=googlechrome&logoColor=09090B"/>
 </a>
 
-<a href="https://github.com/RyhanZone">
-<img src="https://img.shields.io/badge/GitHub-7CFF4D?style=for-the-badge&logo=github&logoColor=09090B"/>
+<a href="https://www.linkedin.com/in/ryhan-rafi-329024346/">
+<img src="https://img.shields.io/badge/LinkedIn-7CFF4D?style=for-the-badge&logo=linkedin&logoColor=09090B"/>
 </a>
 
 <br/><br/>
