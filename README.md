@@ -102,16 +102,6 @@ An interactive quiz application designed to provide a simple and engaging user e
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyhanZone&theme=github_dark" />
-
-</div>
-
----
-
 ## 🎯 Goals
 
 - [x] Learn Modern Frontend Development
